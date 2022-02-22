@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hi! I'm 
-JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+Kenil Gor <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
 
 - - -
 
@@ -10,7 +10,7 @@ JenilKumar Bhadja <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 <p>I am passionate about software development & innovations,i always ready to help  & i enjoy learning new things. </br></p>
 <p>I believe in the power of community & have also given talks at events & various hackthon.</p>   
 - 🔭 I’m currently working on <b>Donation Web Application</b><br>
-- 🌱 I’m currently learning <b>kotlin & .net core</b>.<br>
+- 🌱 I’m currently learning <b>c++, python, asp.net</b>.<br>
 - 👯 I’m looking to collaborate on Android project.<br>
 - 🧗 I try to: Go beyond and push the bounds and explore your potentials<br>
 <!--- 🤔  I'm looking for help to improve my competitive programming skills<br>-->
