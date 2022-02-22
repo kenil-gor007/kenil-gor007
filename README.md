@@ -26,7 +26,7 @@ Kenil Gor <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dd
 </p>
 <br>
 
- <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/jenil-bhadja-09b459189/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
+ <img src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="15"> Follow me on [Linkedin](https://www.linkedin.com/in/kenil-gor-8b0987198/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
 
 <!-- - 📫 Drop a mail:<a href="mailto:jenilpatel7565@gmail.com" target=_blank rel=noopener>JenilKumar Bhadja<a>-->
 
